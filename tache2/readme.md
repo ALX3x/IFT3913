@@ -23,4 +23,4 @@ Une fois la tâche accomplie, les étudiants font une nouvelle 'pull request' su
 - un lien vers le référentiel (repository) Github qui inclut leur tâche
 - un lien vers la page qui documente la tâche
 
-La date limite pour la seconde 'pull request' est indiquée sur la [page principale](../README.md/#tâche-2-tests-unitaires-automatiques) du cours.
+La date limite pour la seconde 'pull request' est indiquée sur la [page principale](../README.md/#evaluation-ift3913---a25) du cours.
