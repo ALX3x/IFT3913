@@ -76,10 +76,10 @@ Les étudiants sont évalués sur la base des 4 tâches décrites ci-dessous. Le
 - tâche #1: présentation individuelle (30%). Les étudiants choisissent un thème parmi tous ceux abordés chaque semaine et préparent une présentation technique de 7 minutes sur ce thème.
   - [instructions détaillés](./presentations/readme.md) 
   - date limite: jour du cours
-- tâche #2: augmentation d'une suite de tests automatique (30%). Les étudiants travaillent en binôme. Chaque binôme augmente la suite de tests de [Graphhopper]() sélectionnées pour le cours, ajoute, documente et automatise l'exécution de 10 nouveaux tests unitaires. Cf. les [instructions détaillées](./tache2/readme.md) et les [critères pour la tâche 2](#tâche-2-tests-unitaires-automatiques). 
+- tâche #2: augmentation d'une suite de tests automatique (30%). Les étudiants travaillent en binôme. Chaque binôme augmente la suite de tests de [Graphhopper](https://github.com/umontreal-diro/graphhopper) sélectionnées pour le cours, ajoute, documente et automatise l'exécution de 10 nouveaux tests unitaires. Cf. les [instructions détaillées](./tache2/readme.md) et les [critères pour la tâche 2](#tâche-2-tests-unitaires-automatiques). 
   - [instructions détaillées](./tache2/readme.md)
   - date limite: vendredi 10 octobre, 17h EST 
-- tâche #3: automatisation des tests d'intégration (30%). Les étudiants travaillent en binôme, le même binôme que pour la tâche #2. Chaque binôme modifie [Graphhopper]() pour le test d'intégration.  Cf. les [instructions détaillées](./tache3/readme.md) et les [critères pour la tâche 3](#tâche-3-tests-dintégration).
+- tâche #3: automatisation des tests d'intégration (30%). Les étudiants travaillent en binôme, le même binôme que pour la tâche #2. Chaque binôme modifie [Graphhopper](https://github.com/umontreal-diro/graphhopper) pour le test d'intégration.  Cf. les [instructions détaillées](./tache3/readme.md) et les [critères pour la tâche 3](#tâche-3-tests-dintégration).
   - [instructions détaillées](./tache3/readme.md)
   - date limite: vendredi 21 novembre, 17h EST
 - tâche #4: répondre à 3 quizz (10%). Vous recevrez 3 quizz au cours du semestre qui aborderont des points abordés dans les différentes présentations du cours. Les 3 quizz seront répartis sur le semestre à des dates non déterminées (a.k.a quizz surprises). Les quizz seront distribués via Studium.
