@@ -18,7 +18,7 @@ Pour faire une présentation sur le test statique, choisissez un des sujets list
 - Nom: Josué Saint-Martin Junior
 - Présentation:
 
-[Concept] Test statique pour la sécurité (SAST)
+[demo] Test statique pour la sécurité (SAST)
 - Nom: Arpad Botond Rigo
 - Présentation:
 
