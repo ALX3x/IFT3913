@@ -7,7 +7,7 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 - Présentation:
 
 [concept] [Test au-delà de la couverture](https://increment.com/reliability/testing-beyond-coverage/)
-- Nom:
+- Nom: Syrine Cherni
 - Présentation:
 
 [concept] Couverture des exigences
