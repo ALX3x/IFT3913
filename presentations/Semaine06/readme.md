@@ -3,7 +3,7 @@
 Pour faire une présentation sur la couverture de code avancée, choisissez un des sujets listés ci-dessous et indiquez votre nom. Si vous souhaitez faire une présentation sur un autre sujet, contacter les assistants le plus tôt possible pour valider le nouveau sujet.
 
 [concept] Analyse de mutation
-- Nom:
+- Nom: Charlotte Locas
 - Présentation:
 
 [concept] [Test au-delà de la couverture](https://increment.com/reliability/testing-beyond-coverage/)
@@ -23,7 +23,7 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 - Présentation:
 
 [concept] Test combinatoire
-- Nom:
+- Nom: Nikolas Lévesque
 - Présentation:
 
 [concept] Test polymorphique pour la couverture des don

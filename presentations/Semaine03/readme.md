@@ -3,7 +3,7 @@
 Pour faire une présentation sur le test unitaire, choisissez un des sujets listés ci-dessous et indiquez votre nom. Si vous souhaitez faire une présentation sur un autre sujet, contacter les assistants le plus tôt possible pour valider le nouveau sujet.
 
 [concept] Oracle de test             
-- Nom:
+- Nom: Kevin Guo
 - Présentation:
 
 [concept] Arrange, Act and Assert    
@@ -11,11 +11,11 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 - Présentation:
 
 [concept] Unit Test Smells           
-- Nom:
+- Nom: Nelson Kamga Newa
 - Présentation: 
 
 [concept] Programmation pilotée par le comportement (BDD)
-- Nom:
+- Nom:NOMENA ANDRE Willis
 - Présentation:
 
 [concept] Programmation pilotée par les tests (TDD) 
@@ -23,15 +23,15 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 - Présentation:
 
 [concept] Génération automatique de test unitaires                            
-- Nom:
+- Nom: Félix Lacroix
 - Présentation:
 
 [concept] Qualité des tests générés avec l'IA                            
-- Nom:
+- Nom: Fachtali Kamil
 - Présentation:
 
 [demo] Test unitaire en Java                              
-- Nom:
+- Nom: Titouan Johanny
 - Présentation:
 
 [demo] Test unitaire en Python    

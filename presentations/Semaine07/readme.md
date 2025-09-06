@@ -3,7 +3,7 @@
 Pour faire une présentation sur le test statique, choisissez un des sujets listés ci-dessous et indiquez votre nom. Si vous souhaitez faire une présentation sur un autre sujet, contacter les assistants le plus tôt possible pour valider le nouveau sujet.
 
 [Concept] La revue de code
-- Nom:
+- Nom: Dorensky Hérard
 - Présentation:
 
 [Concept] Code lint
@@ -11,14 +11,14 @@ Pour faire une présentation sur le test statique, choisissez un des sujets list
 - Présentation:
 
 [Concept] Revue de code assistée par les LLM
-- Nom:
+- Nom: 
 - Présentation:
 
 [Concept] Mesure de complexité du code
 - Nom: Josué Saint-Martin Junior
 - Présentation:
 
-[Concept] Test statique pour la sécurité (SAST)
+[demo] Test statique pour la sécurité (SAST)
 - Nom: Arpad Botond Rigo
 - Présentation:
 
@@ -31,11 +31,11 @@ Pour faire une présentation sur le test statique, choisissez un des sujets list
 - Présentation:
 
 [demo] [ruff](https://github.com/astral-sh/ruff) pour lint de code Python
-- Nom:
+- Nom: Paul Gayout
 - Présentation:
 
 [demo] [semgrep](https://github.com/semgrep/semgrep) pour l'analyse statique
-- Nom:
+- Nom: Mahdi Tazerout
 - Présentation:
 
 [demo] [Frama-C](https://frama-c.com/) pour l'analyse statique en C
