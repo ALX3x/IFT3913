@@ -30,8 +30,8 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Nom:
 - Présentation:
 
-[] SUJET
-- Nom:
+[] SUJET [Agents IA]() autonomes pour la fiabilité en production 
+- Nom: Wayne Timmons
 - Présentation:
 
 [] SUJET
