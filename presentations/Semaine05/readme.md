@@ -15,11 +15,11 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 - Présentation:
 
 [concept] Mocks et stubs
-- Nom:
+- Nom: Laurent POLZIN
 - Présentation:
 
 [demo] [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) pour le test basé sur les propriétés en Python
-- Nom:
+- Nom: Aissatou Ndiaye
 - Présentation:
 
 [demo] [Mockito](https://site.mockito.org/) pour les mocks en Java
@@ -27,15 +27,15 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 - Présentation:
 
 [demo] [msw](https://github.com/mswjs/msw) pour les mocks avec graphQL
-- Nom:
+- Nom: Simon Voglimacci Stéphanopoli
 - Présentation:
 
 [demo] [Cucumber](https://cucumber.io/) pour le test basé comportement en Java
-- Nom:
+- Nom: Marcelo Amarilla
 - Présentation:
 
 [demo] [Java faker](https://github.com/DiUS/java-faker) pour l'isolation de tests en Java
-- Nom:
+- Nom: Charlie Peng
 - Présentation:
 
 [demo] [AutoParams](https://github.com/AutoParams/AutoParams) pour les tests paramétrés en Java
@@ -44,4 +44,8 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [demo] [afl++](https://github.com/AFLplusplus/AFLplusplus)
 - Nom:
+- Présentation:
+
+[demo] [XCUITest](https://developer.apple.com/documentation/xctest?utm_source=chatgpt.com)  pour l’automatisation des tests UI en Swift
+- Nom: Mathias La Rochelle 
 - Présentation:
