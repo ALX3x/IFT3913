@@ -36,8 +36,8 @@ Ce cours est dédié à la présentation de solutions de test et assurance quali
 - Nom: Chiril Reabitchi
 - Présentation:
 
-[] SUJET
-- Nom:
+[concept] Tester les systèmes financiers et boursiers (trading algorithmique et marchés à terme)
+- Nom: Bintou Touré
 - Présentation:
 
 [] SUJET
