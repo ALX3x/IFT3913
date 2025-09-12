@@ -27,11 +27,11 @@
 - Présentation:
 
 [demo] [cycloneDX](https://cyclonedx.org/) pour la génération de 'software bill of materials'
-- Nom:
+- Nom: Yudi Ma
 - Présentation:
 
 [demo] [Nix](https://nixos.org/), gestionnaire de paquets
-- Nom:
+- Nom: mohamed thameur sassi
 - Présentation:
 
 [demo] [poutine](https://github.com/boostsecurityio/poutine) pour l'analyse de GitHub actions

@@ -27,11 +27,11 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Présentation:
 
 [demo] [opentelemetry](https://opentelemetry.io/) pour l'observabilité en production
-- Nom:
+- Nom: Adrian Briscaru
 - Présentation:
 
-[] SUJET
-- Nom:
+[] SUJET [Agents IA]() autonomes pour la fiabilité en production 
+- Nom: Wayne Timmons
 - Présentation:
 
 [] SUJET
