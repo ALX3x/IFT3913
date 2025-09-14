@@ -43,5 +43,5 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 - Présentation:
 
 [demo] [Stryker](https://stryker-mutator.io/) pour la mutation en Javascript
-- Nom:
+- Nom: Ilona Nougbode
 - Présentation:
