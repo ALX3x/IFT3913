@@ -38,8 +38,8 @@
 - Nom: Bilal Vandenberge
 - Présentation:
 
-[] SUJET
-- Nom:
+[concept] Dependency hell
+- Nom: Mariam Elwa
 - Présentation:
 
 [] SUJET
