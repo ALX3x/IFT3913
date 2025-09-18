@@ -44,4 +44,4 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [demo] Test unitaire pour Node.js 
 - Nom: Alexandre Gilbert
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1YWboXPW2Zd8a_0iZxV_40UYKomvQXPo_Uf2inK7ZGoY
