@@ -36,7 +36,7 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [demo] Test unitaire en Python    
 - Nom: alvin arevalo
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1SdhAn1Ts0wmoc1q3_y8xzmp_0SN4C7LDVByy_gBsdVQ/edit?usp=sharing
 
 [demo] Test unitaire en Rust      
 - Nom: Mohamed Terbaoui
