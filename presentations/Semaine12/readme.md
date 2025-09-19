@@ -34,8 +34,8 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Nom: Wayne Timmons
 - Présentation:
 
-[] SUJET
-- Nom:
+[] SUJET [Test fantôme]() 
+- Nom: Patrick Kelvin Episseyo 
 - Présentation:
 
 [] SUJET

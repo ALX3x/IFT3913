@@ -40,10 +40,10 @@ Ce cours est dédié à la présentation de solutions de test et assurance quali
 - Nom: Bintou Touré
 - Présentation:
 
-[] SUJET
-- Nom:
+[concept] Qualité et Conformité aux Standards dans le Domaine de la Santé
+- Nom: David Shorten
 - Présentation:
 
 [] SUJET
-- Nom:
+- Nom: Maxime Belotti
 - Présentation:
