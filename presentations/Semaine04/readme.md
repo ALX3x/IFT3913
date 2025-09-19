@@ -7,7 +7,7 @@ Pour faire une présentation sur la couverture de code, choisissez un des sujets
 - Présentation:
 
 [concept] Critère MC/DC 
-- Nom: Patrick Kelvin Episseyo
+- Nom: 
 - Présentation:
 
 [concept] Couverture des domaines d'entrée 
@@ -15,11 +15,11 @@ Pour faire une présentation sur la couverture de code, choisissez un des sujets
 - Présentation:
 
 [concept] Couverture de code à Google 
-- Nom:
+- Nom: Derin Akay
 - Présentation:
 
 [concept] Couverture pour les réseaux de neurones 
-- Nom:
+- Nom: Dabo Tunwend-raabo Fahima Carmen
 - Présentation:
 
 [concept] Avantages et limites de la couverture de test 
@@ -35,11 +35,11 @@ Pour faire une présentation sur la couverture de code, choisissez un des sujets
 - Présentation:
 
 [demo] Couverture de code pour Rust 
-- Nom:
+- Nom: Mounir Ammam 
 - Présentation:
 
 [demo] Couverture pour les schémas de données
-- Nom:
+- Nom: Tagmouti Mohamed Mehdi
 - Présentation:
 
 [demo] Couverture de code pour Python
