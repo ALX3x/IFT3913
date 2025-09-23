@@ -28,8 +28,8 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom:
 - Présentation:
 
-[] SUJET
-- Nom:
+[Outil] TheFuck 
+- Nom: Guillaume Sabourin
 - Présentation:
 
 [] SUJET
