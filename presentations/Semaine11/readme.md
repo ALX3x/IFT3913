@@ -8,7 +8,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom:
 - Présentation:
 
-[] SUJET
+[Concept] Easter eggs dans la programmation
 - Nom: Jonathan Beaulieu
 - Présentation:
 
