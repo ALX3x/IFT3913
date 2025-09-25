@@ -20,8 +20,8 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom: Fatou Ndao
 - Présentation:
 
-[] SUJET
-- Nom:
+[Concept] La loi de Murphy
+- Nom: Amir Hannache
 - Présentation:
 
 [] SUJET
