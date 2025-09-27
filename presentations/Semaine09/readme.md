@@ -18,8 +18,12 @@
 - Nom: Yuxuan Yuan
 - Présentation:
   
-[concept] 
-- Nom: 
+[concept] Test sur la compatibilité réseau
+- Nom: Marina Traore
+- Présentation:
+
+[concept] test de migration de données entre environnements
+- Nom: Chaza Boukhira
 - Présentation:
   
 [demo] [gauge](https://github.com/getgauge/gauge) pour le test multi platformes
@@ -28,10 +32,6 @@
   
 [demo] [selenium](https://www.selenium.dev/) pour le test web
 - Nom: Hazem Ben Amor
-- Présentation:
-  
-[] SUJET
-- Nom:
 - Présentation:
   
 [] SUJET
