@@ -25,6 +25,10 @@
 [concept] test de migration de données entre environnements
 - Nom: Chaza Boukhira
 - Présentation:
+- 
+[concept] Cross-platform testing with Appium
+- Nom: Jad Essaifi
+- Présentation:
   
 [demo] [gauge](https://github.com/getgauge/gauge) pour le test multi platformes
 - Nom: Rémi-Antoine Joron
