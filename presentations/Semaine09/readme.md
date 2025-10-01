@@ -30,7 +30,7 @@
 - Nom: Jad Essaifi
 - Présentation:
   
-- [concept] Tests de comptabilité dans les environnements virtualisés et conteneurisés (Docker, Kubernetes)
+[concept] Tests de comptabilité dans les environnements virtualisés et conteneurisés (Docker, Kubernetes)
 - Nom: Célina Zhang
 - Présentation:
   
