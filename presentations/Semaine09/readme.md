@@ -30,6 +30,10 @@
 - Nom: Jad Essaifi
 - Présentation:
   
+- [concept] Tests de comptabilité dans les environnements virtualisés et conteneurisés (Docker, Kubernetes)
+- Nom: Célina Zhang
+- Présentation:
+  
 [demo] [gauge](https://github.com/getgauge/gauge) pour le test multi platformes
 - Nom: Rémi-Antoine Joron
 - Présentation:
