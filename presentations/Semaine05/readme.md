@@ -4,7 +4,7 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [concept] Test par fuzzing
 - Nom: Yamir Alejandro Poldo Silva
-- Présentation:
+- Présentation: https://github.com/Yamires/Presentation_Fuzzing_IFT3913
 
 [concept] Test basé sur les propriétés
 - Nom: Mohamed Atmani
@@ -16,19 +16,19 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [concept] Mocks et stubs
 - Nom: Laurent POLZIN
-- Présentation:
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/r/personal/laurent_polzin_umontreal_ca/Documents/Mocks%20%26%20Stubs%20-%20IFT%203913%20-%20Prez%2003%2010%202025.pptx?d=w4fb426b7b2a04dc29a60786486dda00b&csf=1&web=1&e=iBQ10L
 
 [demo] [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) pour le test basé sur les propriétés en Python
 - Nom: Aissatou Ndiaye
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/19q9bhJLJRHZJRHAKtX5Jqh45EUm-J56itKNSk3ZQwOI/edit?usp=sharing
 
 [demo] [Mockito](https://site.mockito.org/) pour les mocks en Java
 - Nom: Sarah Heng
-- Présentation:
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/sarah_heng_umontreal_ca/EWHKqQH-GE1CptxLagMx7ZUBUCOx9ps3TCvqlp-ncgaFRg?e=n6zngj
 
 [demo] [msw](https://github.com/mswjs/msw) pour les mocks avec graphQL
 - Nom: Simon Voglimacci Stéphanopoli
-- Présentation:
+- Présentation: https://github.com/svoglimacci/msw-graphql-demo
 
 [demo] [Cucumber](https://cucumber.io/) pour le test basé comportement en Java
 - Nom: Marcelo Amarilla
@@ -36,16 +36,16 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [demo] [Java faker](https://github.com/DiUS/java-faker) pour l'isolation de tests en Java
 - Nom: Charlie Peng
-- Présentation:
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/charlie_peng_umontreal_ca/EdYfHDlDCXRMih4QtzJbFTcBhpL-yo8Krk9qLR18A5fNyQ?e=tml1qv
 
 [demo] [AutoParams](https://github.com/AutoParams/AutoParams) pour les tests paramétrés en Java
 - Nom: William Caron-Bastarache
-- Présentation:
+- Présentation: https://github.com/will13cb/autoparams-demo
 
 [demo] [afl++](https://github.com/AFLplusplus/AFLplusplus)
-- Nom:
-- Présentation:
+- Nom:Emmanuel Paraison
+- Présentation: https://docs.google.com/presentation/d/16JTUXJTkwS-xUi3lI86ozgNiIGEMLgc2I8HO2HCf7qs/edit?slide=id.g388b4f86af9_0_0#slide=id.g388b4f86af9_0_0
 
 [demo] [XCUITest](https://developer.apple.com/documentation/xctest?utm_source=chatgpt.com)  pour l’automatisation des tests UI en Swift
 - Nom: Mathias La Rochelle 
-- Présentation:
+- Présentation: https://github.com/mrquaternion/DemoXCUIAutomation

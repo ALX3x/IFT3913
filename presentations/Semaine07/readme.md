@@ -16,7 +16,7 @@ Pour faire une présentation sur le test statique, choisissez un des sujets list
 
 [Concept] Mesure de complexité du code
 - Nom: Josué Saint-Martin Junior
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1gBt0JCBbLCEnPNDT066NiuboWw5LwotKQQ716D30b9o/edit?usp=sharing
 
 [demo] Test statique pour la sécurité (SAST)
 - Nom: Arpad Botond Rigo
@@ -43,5 +43,5 @@ Pour faire une présentation sur le test statique, choisissez un des sujets list
 - Présentation:
 
 [demo] [Poutine](https://github.com/boostsecurityio/poutine) pour le test statique de GitHub actions
-- Nom:
+- Nom: Ines Amelia Chafai
 - Présentation:
