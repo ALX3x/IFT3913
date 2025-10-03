@@ -12,11 +12,11 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [concept] Tests paramétrés
 - Nom: Jérémie Dupuis
-- Présentation:
+- Présentation: https://jeremiedupuis.com/ift3913/presentation.pdf
 
 [concept] Mocks et stubs
 - Nom: Laurent POLZIN
-- Présentation: https://udemontreal-my.sharepoint.com/:p:/r/personal/laurent_polzin_umontreal_ca/Documents/Mocks%20%26%20Stubs%20-%20IFT%203913%20-%20Prez%2003%2010%202025.pptx?d=w4fb426b7b2a04dc29a60786486dda00b&csf=1&web=1&e=iBQ10L
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/laurent_polzin_umontreal_ca/EbcmtE-gssJNmmB4ZIbdoAsB-hTj24Sz9TBwoDW1_NOLdg?e=OAUssH
 
 [demo] [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) pour le test basé sur les propriétés en Python
 - Nom: Aissatou Ndiaye
@@ -32,7 +32,7 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [demo] [Cucumber](https://cucumber.io/) pour le test basé comportement en Java
 - Nom: Marcelo Amarilla
-- Présentation:
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/marcelo_david_amarilla-hernandez_umontreal_ca/EZk5QD8EhTBPsLPAaIhO420Bh3UpGjYCn1qti8PqraydOA?e=3zTffy
 
 [demo] [Java faker](https://github.com/DiUS/java-faker) pour l'isolation de tests en Java
 - Nom: Charlie Peng
