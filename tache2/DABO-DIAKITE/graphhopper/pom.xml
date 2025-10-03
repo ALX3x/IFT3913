@@ -170,7 +170,12 @@
             <artifactId>junit-jupiter-params</artifactId>
             <scope>test</scope>
         </dependency>
-    </dependencies>
+        <dependency>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>1.0.2</version>
+            </dependency>
+        </dependencies>
     <build>
         <pluginManagement>
             <plugins>
@@ -370,6 +375,20 @@
                             </execution>
                         </executions>
                     </plugin>
+                    <plugin>
+                        <groupId>org.pitest</groupId>
+                        <artifactId>pitest-maven</artifactId>
+                        <version>1.15.2</version>
+                        <configuration>
+                            <targetClasses>
+                                <param>com.graphhopper.routing.*</param> <!-- adapter selon les classes testées -->
+                            </targetClasses>
+                            <targetTests>
+                                <param>com.graphhopper.routing.*Test</param>
+                            </targetTests>
+                        </configuration>
+                    </plugin>
+
                 </plugins>
             </build>
         </profile>
