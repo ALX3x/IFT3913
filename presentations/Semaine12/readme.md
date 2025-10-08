@@ -26,6 +26,10 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Nom: Oumayma Haddour
 - Présentation:
 
+[concept] Feature Flags (dark launching et progressive rollout)
+- Nom: Yassine Azmani
+- Présentation: 
+
 [demo] [opentelemetry](https://opentelemetry.io/) pour l'observabilité en production
 - Nom: Adrian Briscaru
 - Présentation:
@@ -38,10 +42,6 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Nom: Patrick Kelvin Episseyo 
 - Présentation:
 
-[] SUJET
-- Nom:
-- Présentation:
-
-[] SUJET
-- Nom:
+[démo] SUJET tests de performances avec K6 en javascript
+- Nom: Papa Moussa Diabate 
 - Présentation:
