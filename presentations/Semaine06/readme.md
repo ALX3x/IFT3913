@@ -4,7 +4,7 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 
 [concept] Analyse de mutation
 - Nom: Charlotte Locas
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1dRMc3EDHZG3gEHzIdrbscEXiCfXaoHiW4zuVW4DObW0/edit?usp=sharing
 
 [concept] [Test au-delà de la couverture](https://increment.com/reliability/testing-beyond-coverage/)
 - Nom: Syrine Cherni
@@ -12,11 +12,11 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 
 [concept] Couverture des exigences
 - Nom:meriem ghaoui
-- Présentation:
+- Présentation:https://docs.google.com/presentation/d/e/2PACX-1vRQ-tOnxHr1DthMFjkguR1lHQTgHWh2textq9Y3FtdRzNX3OOENsP_o_Ks6cIhBv66w5BHaTzZSKOhj/pub?start=false&loop=false&delayms=3000
 
 [concept] LLM pour augmenter la couverture [à Meta](https://web.eecs.umich.edu/~movaghar/Automatic%20Test%20Generation%20Meta%202024.pdf)
-- Nom:Snkar Mam
-- Présentation:
+- Nom: Snkar Mam
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/snkar_mam_umontreal_ca/ERMDxO-WECBLg0XLRoZTBxUBpoJITd7VjicKCISGoh96JQ?e=hKZZMD
 
 [concept] [Le problème de l'oracle de test](http://discovery.ucl.ac.uk/1471263/1/06963470.pdf)
 - Nom: Toumi Rachida
@@ -32,7 +32,7 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 
 [demo] [jacoco-report](https://github.com/Madrapps/jacoco-report) couverture et GitHub action  
 - Nom:Lallia Diakite
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1BfWkuRtMd8FBxCjuR1rNs3wR2LtNhEz8InRbe8pAscM/edit?usp=sharing
 
 [demo] [Pit](https://pitest.org/) pour le test par mutation en Java
 - Nom: Ru Qian
