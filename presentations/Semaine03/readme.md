@@ -4,11 +4,11 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [concept] Oracle de test             
 - Nom: Kevin Guo
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1oyJAT_t3c7hqt2rISNWOyQpMQM5cBqMLjEgiLauragQ/edit?usp=sharing
 
 [concept] Arrange, Act and Assert    
 - Nom: Chaimaa Dannane
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1eSSU5QAzBoyyUe03GAgvdeaw-mhrni_FbuOYE2CDvq4/edit?usp=sharing
 
 [concept] Unit Test Smells           
 - Nom: Nelson Kamga Newa
@@ -20,7 +20,7 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [concept] Programmation pilotée par les tests (TDD) 
 - Nom: Thomas Bate
-- Présentation: https://udemontreal-my.sharepoint.com/:b:/g/personal/thomas_bate_umontreal_ca/EfhtfhKtfhtPi5PVHwUz0OUBJ5h_gSHbzs6nrE0TWTngcw?e=ByM21h
+- Présentation: https://udemontreal-my.sharepoint.com/:b:/g/personal/thomas_bate_umontreal_ca/EfhtfhKtfhtPi5PVHwUz0OUBhfa1mSq3STaUoGSVIfASmQ
 
 [concept] Génération automatique de test unitaires                            
 - Nom:
@@ -40,7 +40,7 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [demo] Test unitaire en Rust      
 - Nom: Mohamed Terbaoui
-- Présentation:
+- Présentation: https://mohamedterbaoui.github.io/Presentation_Test_Rust/
 
 [demo] Test unitaire pour Node.js 
 - Nom: Alexandre Gilbert
