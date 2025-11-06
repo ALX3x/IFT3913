@@ -21,9 +21,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom: Amir Hannache
 - Présentation:
 
-[Concept] Comment les langages de programmation eux-mêmes sont testés
-- Nom: Mathis Laroche
-- Présentation:
+
 
 [demo] TheFuck 
 - Nom: Guillaume Sabourin
