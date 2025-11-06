@@ -46,8 +46,8 @@
 - Nom: Tarik Hireche
 - Présentation:
   
-[] SUJET
-- Nom:
+[Concept] Comment les langages de programmation eux-mêmes sont testés
+- Nom: Mathis Laroche
 - Présentation:
   
 [] SUJET
