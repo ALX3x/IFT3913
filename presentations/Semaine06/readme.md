@@ -20,15 +20,15 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 
 [concept] [Le problème de l'oracle de test](http://discovery.ucl.ac.uk/1471263/1/06963470.pdf)
 - Nom: Toumi Rachida
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1KDc8V9GUAfvC-Jx0RpJgYvmDz2A002lWgcLUrkB07RU/edit?usp=sharing
 
 [concept] Test combinatoire
 - Nom: Nikolas Lévesque
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1Wd5Qq2YkfYglIxMFi2P9MPMrrBdc_pNLW9r8vdWvWjY/edit?usp=sharing
 
 [concept] Test polymorphique pour la couverture des don
 - Nom: Kady Danella Ingabire
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1i9w877lRsDwM-_nlM3pskLdS2jZ-noCV/edit?slide=id.p2#slide=id.p2
 
 [demo] [jacoco-report](https://github.com/Madrapps/jacoco-report) couverture et GitHub action  
 - Nom:Lallia Diakite
@@ -36,11 +36,11 @@ Pour faire une présentation sur la couverture de code avancée, choisissez un d
 
 [demo] [Pit](https://pitest.org/) pour le test par mutation en Java
 - Nom: Ru Qian
-- Présentation:
+- Présentation:https://docs.google.com/presentation/d/1LmvP9ktHbakDVvQ0TShqnizSqpOF3RFJpOut7qeBsXo/edit?usp=sharing
 
 [demo] [Pitest-descartes](https://github.com/STAMP-project/pitest-descartes) pour le test par mutation extrême en Java
 - Nom: Leonard Benamara
-- Présentation: https://docs.google.com/presentation/d/1Axkbr_FeBbntdI-1oQL_w8l3aDew3hAQvJFYQvrrLLE/edit?slide=id.g38aecdf05f5_0_22#slide=id.g38aecdf05f5_0_22
+- Présentation: https://docs.google.com/presentation/d/1Axkbr_FeBbntdI-1oQL_w8l3aDew3hAQvJFYQvrrLLE/edit?usp=sharing
 
 [demo] [Stryker](https://stryker-mutator.io/) pour la mutation en Javascript
 - Nom: Ilona Nougbode
