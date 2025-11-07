@@ -5,15 +5,7 @@
 [concept] A/B testing
 - Nom: Peini Li 
 - Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/peini_li_umontreal_ca/EQQYm8S37g9FiZKkzt7pqZEBAg2_WFhl2fhbgOHYFV7vtg?e=qcKGrK
-  
-[concept] Cross-browser testing
-- Nom: Léa hemidj 
-- Présentation:
-  
-[concept] Test de compatibilité entre environnements
-- Nom: Ariane Laverrière
-- Présentation:
-  
+   
 [concept] Back to back testing
 - Nom: Yuxuan Yuan
 - Présentation: https://docs.google.com/presentation/d/1gmJ8IskaLiOprOjxLPez3i_zRc1yDl3Qsg3zg6ryqqI/edit?usp=sharing
@@ -42,14 +34,19 @@
 - Nom: Hazem Ben Amor
 - Présentation: (https://www.canva.com/design/DAG3wawBnAk/aSb9OXh-Buey3cHCixqVlg/edit?utm_content=DAG3wawBnAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
-[demo] Docker pour tester dans un environnement uniforme
-- Nom: Tarik Hireche
-- Présentation:
-  
 [Concept] Comment les langages de programmation eux-mêmes sont testés
 - Nom: Mathis Laroche
 - Présentation:
   
-[] SUJET
-- Nom:
+[concept] Cross-browser testing
+- Nom: Léa hemidj 
 - Présentation:
+  
+[concept] Test de compatibilité entre environnements
+- Nom: Ariane Laverrière
+- Présentation:
+
+[demo] Docker pour tester dans un environnement uniforme
+- Nom: Tarik Hireche
+- Présentation:
+  
