@@ -36,7 +36,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Présentation:
 
 [] SUJET
-- Nom:
+- Nom: Amadou Koné (sujet : quand rire améliore la qualité)
 - Présentation:
 
 [] SUJET
