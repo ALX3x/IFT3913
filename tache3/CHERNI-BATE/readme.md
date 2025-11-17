@@ -1,4 +1,4 @@
 Syrine CHERNI et Thomas Bate
 
-Lien vers le code : 
-Lien vers le readme : 
+[Lien](https://github.com/tcbate/graphhopper/tree/tache3) vers le code 
+[Lien](https://github.com/tcbate/graphhopper/blob/tache3/rapport/rapport.md) vers le readme
