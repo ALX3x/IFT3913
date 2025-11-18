@@ -29,7 +29,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom: Rayan Hidri
 - Présentation:
 
-[] Les Easter Eggs dans les tests 
+[Concept] Stand-up Testing
 - Nom: Karim Hozaien
 - Présentation:
 
