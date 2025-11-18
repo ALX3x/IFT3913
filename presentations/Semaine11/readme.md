@@ -40,3 +40,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 [concept] L’humour dans les commentaires de code
 - Nom: Félix Lacroix
 - Présentation:
+
+[Concept] Le commit : un geste technique, une parole humaine 
+- Nom: Samuel Michaud
+- Présentation:
