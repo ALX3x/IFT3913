@@ -42,6 +42,10 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Nom: Patrick Kelvin Episseyo 
 - Présentation:
 
-[démo] SUJET tests de performances avec K6 en javascript
+[démo]  tests de performances avec K6 en javascript
 - Nom: Papa Moussa Diabate 
+- Présentation:
+
+[démo]  Shadow Testing en production
+- Nom: Joseph Bombardier 
 - Présentation:
