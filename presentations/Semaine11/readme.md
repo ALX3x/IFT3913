@@ -33,7 +33,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom: Karim Hozaien
 - Présentation:
 
-[] Quand rire améliore la qualité
+[Concept] Quand rire améliore la qualité
 - Nom: Amadou Koné 
 - Présentation:
 
