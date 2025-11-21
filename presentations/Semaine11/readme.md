@@ -14,7 +14,7 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/ayoub_bencheikh_el_atmani_umontreal_ca/IQA1NWSPTpl6TYzqZtPXEbqZAR_nB5EppxstsGg_vj3yvWg?e=jUtusl
 [Concept] Little bobby tables - SQL injection et humour
 - Nom: Fatou Ndao
-- Présentation: https://udemontreal-my.sharepoint.com/personal/fatou_ndao_umontreal_ca/Documents/Presentation_Little%20Bobby%20Tables.pptx?web=1
+- Présentation: https://udemontreal-my.sharepoint.com/:p:/g/personal/fatou_ndao_umontreal_ca/IQC1Z2tA4QoLToJrEyqGT6xWAeooMLqUCMEgwRJs1J-jIfA?e=IgKfz8
 
 [Concept] La loi de Murphy
 - Nom: Amir Hannache
